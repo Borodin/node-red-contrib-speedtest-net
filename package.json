@@ -22,7 +22,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "speedtest-net": "^2.x"
+        "speedtest-net": "2.2.0"
     },
     "devDependencies": {
         "node-red": "^1.3.5",
